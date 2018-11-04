@@ -1,0 +1,17 @@
+D:\proyek\WindowsFormsApplication2\WindowsFormsApplication2\bin\Release\WindowsFormsApplication2.exe.config
+D:\proyek\WindowsFormsApplication2\WindowsFormsApplication2\bin\Release\Form_profile.resx
+D:\proyek\WindowsFormsApplication2\WindowsFormsApplication2\bin\Release\Form_profile.cs
+D:\proyek\WindowsFormsApplication2\WindowsFormsApplication2\bin\Release\Form_profile.Designer.cs
+D:\proyek\WindowsFormsApplication2\WindowsFormsApplication2\bin\Release\WindowsFormsApplication2.exe
+D:\proyek\WindowsFormsApplication2\WindowsFormsApplication2\bin\Release\WindowsFormsApplication2.pdb
+D:\proyek\WindowsFormsApplication2\WindowsFormsApplication2\obj\Release\WindowsFormsApplication2.fdataAlumni.resources
+D:\proyek\WindowsFormsApplication2\WindowsFormsApplication2\obj\Release\WindowsFormsApplication2.fLihatData.resources
+D:\proyek\WindowsFormsApplication2\WindowsFormsApplication2\obj\Release\WindowsFormsApplication2.Form1.resources
+D:\proyek\WindowsFormsApplication2\WindowsFormsApplication2\obj\Release\WindowsFormsApplication2.FormImport.resources
+D:\proyek\WindowsFormsApplication2\WindowsFormsApplication2\obj\Release\WindowsFormsApplication2.formLogin.resources
+D:\proyek\WindowsFormsApplication2\WindowsFormsApplication2\obj\Release\WindowsFormsApplication2.Form_profile.resources
+D:\proyek\WindowsFormsApplication2\WindowsFormsApplication2\obj\Release\WindowsFormsApplication2.Properties.Resources.resources
+D:\proyek\WindowsFormsApplication2\WindowsFormsApplication2\obj\Release\WindowsFormsApplication2.csproj.GenerateResource.Cache
+D:\proyek\WindowsFormsApplication2\WindowsFormsApplication2\obj\Release\WindowsFormsApplication2.exe
+D:\proyek\WindowsFormsApplication2\WindowsFormsApplication2\obj\Release\WindowsFormsApplication2.pdb
+D:\proyek\WindowsFormsApplication2\WindowsFormsApplication2\obj\Release\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
